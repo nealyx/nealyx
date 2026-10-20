@@ -4,8 +4,8 @@ I work on mathematical evaluation, research tooling, and the gap between a
 measurement and the claim made from it.
 
 My current projects ask practical questions: Does a reward measure the behavior
-we intended? What information does a learned representation retain? Can another
-person inspect the evidence behind an experiment and understand its limits?
+we intended? Can another person inspect the evidence behind an experiment and
+understand its limits?
 
 Explore the [public research portfolio](https://nealyx.github.io/research.html)
 for a guided tour, or start with a repository below.
@@ -15,8 +15,7 @@ for a guided tour, or start with a repository below.
 | Project | What to explore | What is available |
 |---|---|---|
 | **[Math Reward Hacking](https://github.com/nealyx/math-reward-hacking)** | How completion limits and answer extraction change an apparent training result | 10,500 saved completions, a worked example, analysis, and verification commands |
-| **[ReviewOps](https://github.com/nealyx/reviewops)** | Evidence handoffs, review decisions, and retained experiment revisions | A local app, synthetic cases, and a traceable public EGRA audit; researcher pilot pending |
-| **[EGRA FACED](https://github.com/nealyx/egra-faced)** | Separating stimulus identity, subject/session identity, and individual response in EEG representations | Saved predictions, controls, methods, and a dependency-free result verifier |
+| **[ReviewOps](https://github.com/nealyx/reviewops)** | Evidence handoffs, review decisions, and retained experiment revisions | A local app with synthetic cases; researcher pilot pending |
 | **[Multimodal Response Lab](https://github.com/nealyx/multimodal-response-lab)** | A signal-processing workflow from structured observations to inspectable reports | A camera-free synthetic walkthrough plus optional live capture; no validated cognitive-state claims |
 
 For a quick first look, read the
@@ -27,9 +26,6 @@ the study does not establish consistent reward hacking.
 To try the workflow tool, download the
 [ReviewOps release](https://github.com/nealyx/reviewops/releases/latest).
 It runs locally with Python and no third-party packages.
-The [published-audit walkthrough](https://github.com/nealyx/reviewops/blob/main/docs/public-audit-walkthrough.md)
-connects EGRA's saved-output checks to a review package with exact provenance
-and a human decision still to be made.
 
 ## Research in progress
 
