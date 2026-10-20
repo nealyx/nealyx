@@ -14,13 +14,14 @@ for a guided tour, or start with a repository below.
 
 | Project | What to explore | What is available |
 |---|---|---|
-| **[ReviewOps](https://github.com/nealyx/reviewops)** | What changed between evidence snapshots and which version was reviewed | A local prototype with revision comparison, offline backup/restore, and synthetic cases; researcher pilot pending |
+| **[ReviewOps](https://github.com/nealyx/reviewops)** | What changed between evidence snapshots and which version was reviewed | A local prototype with revision comparison, portable review summaries, offline backup/restore, and synthetic cases; researcher pilot pending |
 | **[Math Reward Hacking](https://github.com/nealyx/math-reward-hacking)** | How completion limits and answer extraction change an apparent training result | 10,500 saved completions, a worked example, analysis, and verification commands |
 | **[Multimodal Response Lab](https://github.com/nealyx/multimodal-response-lab)** | A signal-processing workflow from structured observations to inspectable reports | A camera-free synthetic walkthrough plus optional live capture; no validated cognitive-state claims |
 
 To try the workflow tool, download the
 [ReviewOps release](https://github.com/nealyx/reviewops/releases/latest).
-Compare revisions, inspect evidence, and back up a stopped workspace.
+Compare revisions, inspect evidence, and download a readable review summary.
+Offline backups preserve the complete workspace.
 It runs locally with Python and no third-party packages.
 
 For a saved-output research example, read the
