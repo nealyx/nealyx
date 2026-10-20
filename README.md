@@ -14,7 +14,7 @@ for a guided tour, or start with a repository below.
 
 | Project | What to explore | What is available |
 |---|---|---|
-| **[ReviewOps](https://github.com/nealyx/reviewops)** | What changed between evidence snapshots and which version was reviewed | A local prototype with revision comparison, portable review summaries, offline backup/restore, and synthetic cases; researcher pilot pending |
+| **[ReviewOps](https://github.com/nealyx/reviewops)** | What changed between evidence snapshots and which version was reviewed | A local prototype with revision comparison, portable review summaries, offline backup/restore, and synthetic cases |
 | **[Math Reward Hacking](https://github.com/nealyx/math-reward-hacking)** | How completion limits and answer extraction change an apparent training result | 10,500 saved completions, a worked example, analysis, and verification commands |
 
 To try the workflow tool, download the
