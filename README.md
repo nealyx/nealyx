@@ -14,18 +14,19 @@ for a guided tour, or start with a repository below.
 
 | Project | What to explore | What is available |
 |---|---|---|
+| **[ReviewOps](https://github.com/nealyx/reviewops)** | What changed between evidence snapshots and which version was reviewed | A local prototype with revision comparison, offline backup/restore, and synthetic cases; researcher pilot pending |
 | **[Math Reward Hacking](https://github.com/nealyx/math-reward-hacking)** | How completion limits and answer extraction change an apparent training result | 10,500 saved completions, a worked example, analysis, and verification commands |
-| **[ReviewOps](https://github.com/nealyx/reviewops)** | Evidence handoffs, review decisions, and retained experiment revisions | A local app with synthetic cases; researcher pilot pending |
 | **[Multimodal Response Lab](https://github.com/nealyx/multimodal-response-lab)** | A signal-processing workflow from structured observations to inspectable reports | A camera-free synthetic walkthrough plus optional live capture; no validated cognitive-state claims |
-
-For a quick first look, read the
-[math case study walkthrough](https://github.com/nealyx/math-reward-hacking/blob/main/docs/walkthrough.md).
-It follows one saved response through different scoring rules and explains why
-the study does not establish consistent reward hacking.
 
 To try the workflow tool, download the
 [ReviewOps release](https://github.com/nealyx/reviewops/releases/latest).
+Compare revisions, inspect evidence, and back up a stopped workspace.
 It runs locally with Python and no third-party packages.
+
+For a saved-output research example, read the
+[math case study walkthrough](https://github.com/nealyx/math-reward-hacking/blob/main/docs/walkthrough.md).
+It follows one saved response through different scoring rules and explains why
+the study does not establish consistent reward hacking.
 
 ## Research in progress
 
