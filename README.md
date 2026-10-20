@@ -7,6 +7,9 @@ My current projects ask practical questions: Does a reward measure the behavior
 we intended? What information does a learned representation retain? Can another
 person inspect the evidence behind an experiment and understand its limits?
 
+Explore the [public research portfolio](https://nealyx.github.io/research.html)
+for a guided tour, or start with a repository below.
+
 ## Start with these projects
 
 | Project | What to explore | What is available |
