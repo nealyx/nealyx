@@ -21,6 +21,10 @@ For a quick first look, read the
 It follows one saved response through different scoring rules and explains why
 the study does not establish consistent reward hacking.
 
+To try the workflow tool, download the
+[ReviewOps release](https://github.com/nealyx/reviewops/releases/latest).
+It runs locally with Python and no third-party packages.
+
 ## Research in progress
 
 [Formalization evaluation robustness](https://github.com/nealyx/formalization-eval-robustness)
