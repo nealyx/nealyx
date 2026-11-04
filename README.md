@@ -1,14 +1,15 @@
 # Neal Shandilya
 
-I work on mathematical evaluation, research tooling, and the gap between a
-measurement and the claim made from it.
+I’m a founding engineer at [Millennium Research](https://www.millenniumresearch.ai/).
+I lead work on the Legatus loop: a coding agent writes a program and its
+specification, checks them with a verifier, and uses the feedback to try again.
 
-My current projects ask practical questions: Does a reward measure the behavior
-we intended? Can another person inspect the evidence behind an experiment and
-understand its limits?
+I’m also designing release checks for the graders that score AI agents. If a
+grader update starts accepting a wrong outcome or rejecting a valid one, I want
+the reviewer to have the exact case they can replay.
 
 Explore [research & tools](https://nealyx.github.io/)
-for a guided tour, or start with a repository below.
+for a guided tour, or reach me at [neal@millenniumresearch.ai](mailto:neal@millenniumresearch.ai).
 
 ## Start with these projects
 
